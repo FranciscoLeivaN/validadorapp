@@ -1,4 +1,5 @@
 Ejercicio Guiado: Análisis Estático de Código con SonarQube y Maven.
+Grupo 2 - Participante : Guillermo Torres / Francisco Leiva. 
 
 Preguntas finales 
 - ¿Qué tipo de errores detectó SonarQube que podrían haber pasado desarpercibidos?
